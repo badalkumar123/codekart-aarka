@@ -1,0 +1,266 @@
+.Pricebox {
+  position: absolute;
+  width: 1186px;
+  height: 891px;
+  left: 321px;
+  top: 105px;
+
+  background: #191919;
+  border-radius: 8px;
+}
+.prictext {
+  position: absolute;
+  width: 77px;
+  height: 28px;
+  left: 361px;
+  top: 149px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #ffffff;
+}
+.pricingline {
+  position: absolute;
+  width: 1189px;
+  height: 0px;
+  left: 321px;
+  top: 205px;
+
+  border: 0.5px solid #000000;
+}
+.goldbox1 {
+  position: absolute;
+  width: 340px;
+  height: 171px;
+  left: 361px;
+  top: 266px;
+
+  background: linear-gradient(
+    261.99deg,
+    #ffe48c 0.54%,
+    #fbd65b 47.73%,
+    rgba(250, 197, 22, 0.7) 98.42%
+  );
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+
+.goldmembertext {
+  position: absolute;
+  width: 140px;
+  height: 23px;
+  left: 379px;
+  top: 281px;
+
+  font-family: "Readex Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  letter-spacing: 0.06em;
+
+  color: #ffffff;
+}
+.gdot01 {
+  position: absolute;
+  left: 24.87%;
+  right: 75.07%;
+  top: 31.6%;
+  bottom: 68.3%;
+
+  background: #0003c1;
+  border: 2px solid #0003c1;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.gtext1 {
+  position: absolute;
+  width: 115px;
+  height: 13px;
+  left: 390px;
+  top: 323px;
+
+  font-family: "Readex Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 12px;
+  /* identical to box height */
+
+  color: #0003c1;
+}
+.gtext2 {
+  position: absolute;
+  width: 82px;
+  height: 13px;
+  left: 390px;
+  top: 343px;
+
+  font-family: "Readex Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 12px;
+  /* identical to box height */
+
+  color: #0003c1;
+}
+.gtext3 {
+  position: absolute;
+  width: 113px;
+  height: 13px;
+  left: 390px;
+  top: 363px;
+
+  font-family: "Readex Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 12px;
+  /* identical to box height */
+
+  color: #0003c1;
+}
+.gtext4 {
+  position: absolute;
+  width: 89px;
+  height: 13px;
+  left: 390px;
+  top: 384px;
+
+  font-family: "Readex Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 12px;
+  /* identical to box height */
+
+  color: #0003c1;
+}
+.gtext5 {
+  position: absolute;
+  width: 171px;
+  height: 13px;
+  left: 390px;
+  top: 402px;
+
+  font-family: "Readex Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 12px;
+  /* identical to box height */
+
+  color: #0003c1;
+}
+.silverbox01 {
+  position: absolute;
+  width: 340px;
+  height: 171px;
+  left: 731px;
+  top: 266px;
+
+  background: linear-gradient(
+    261.99deg,
+    #a3a3a3 0.54%,
+    #dee1e6 47.73%,
+    #717171 98.42%
+  );
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+.stext1 {
+  position: absolute;
+  width: 81px;
+  height: 13px;
+  left: 759px;
+  top: 323px;
+
+  font-family: "Readex Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 12px;
+  /* identical to box height */
+
+  color: #0003c1;
+}
+.silvermembertext {
+  position: absolute;
+  width: 145px;
+  height: 23px;
+  left: 748px;
+  top: 281px;
+
+  font-family: "Readex Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  letter-spacing: 0.06em;
+
+  color: #ffffff;
+}
+.stext2 {
+  position: absolute;
+  width: 128px;
+  height: 13px;
+  left: 759px;
+  top: 343px;
+
+  font-family: "Readex Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 12px;
+  /* identical to box height */
+
+  color: #0003c1;
+}
+.stext3 {
+  position: absolute;
+  width: 76px;
+  height: 13px;
+  left: 759px;
+  top: 363px;
+
+  font-family: "Readex Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 12px;
+  /* identical to box height */
+
+  color: #0003c1;
+}
+.stext4 {
+  position: absolute;
+  width: 92px;
+  height: 13px;
+  left: 759px;
+  top: 384px;
+
+  font-family: "Readex Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 12px;
+  /* identical to box height */
+
+  color: #0003c1;
+}
+.pricecontainerbox{
+
+position: relative;
+width: 1536px;
+height: 1041px;
+
+background: #141414;
+}

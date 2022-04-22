@@ -1,0 +1,146 @@
+.leftbar {
+  position: absolute;
+  width: 300px;
+  height: 1401px;
+  left: 0px;
+  top: 1px;
+
+  background: #191919;
+}
+.desh {
+  position: absolute;
+  width: 140.78px;
+  height: 24.64px;
+  left: 49px;
+  top: 191px;
+  display: flex;
+}
+
+.deshboard {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  color: #ffffff;
+}
+.deshbuttom {
+  position: absolute;
+  width: 78.02px;
+  height: 19.04px;
+  left: 49px;
+  margin-top: 5px;
+  text-decoration: none;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  border: 0px;
+  color: #ffffff;
+  background: #191919;
+}
+.deshbuttom:hover{
+  color: #FAC516;
+}
+.aarkalogo {
+  position: absolute;
+  width: 187px;
+  height: 82.88px;
+  left: 49px;
+  top: 29px;
+}
+.user {
+  position: absolute;
+  width: 105.01px;
+  height: 24.04px;
+  left: 49px;
+  top: 270px;
+}
+.userlogo{
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  color: #ffffff;
+}
+.userbuttom{
+  position: absolute;
+width: 42.01px;
+height: 19.04px;
+left: 50px;
+top: 2px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+text-decoration: none;
+}
+.userbuttom:hover{
+  color: #FAC516;
+}
+.subadminbuttom{
+  
+position: absolute;
+width: 89px;
+height: 19.04px;
+left: 100px;
+top: 353px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+border: 0px;
+background-color: #191919;
+}
+.subadminlogo{
+  position: absolute;
+
+right: 8.33%;
+left: 49px;
+top: 350px;
+bottom: 8.33%;
+
+background: #FFFFFF;
+}
+
+.pricetaglogo{
+position: absolute;
+width: 24px;
+height: 24px;
+left: 49px;
+top: 426px;
+color: #FFFFFF;
+}
+.pricetagbuttom{
+  position: absolute;
+width: 50px;
+height: 19px;
+left: 100px;
+top: 431px;
+text-decoration: none;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+border: 0px;
+background-color: #191919;
+color: #FFFFFF;
+}
+.pricetagbuttom:hover{
+  color: #FAC516;
+}

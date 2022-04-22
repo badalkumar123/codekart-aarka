@@ -1,0 +1,72 @@
+.topnavi {
+  position: absolute;
+width: 1536px;
+height: 85px;
+left: 0px;
+top: 0px;
+
+background: #181818;
+}
+.search {
+  margin-left: 50px;
+  height: 40px;
+  width: 440px;
+
+  background-color: #141414;
+
+  border-radius: 8px;
+  border: 0px #141414;
+}
+
+.searchlogo {
+  position: absolute;
+  color: #ffffff;
+  margin-top: 7px;
+  margin-left: 8px;
+}
+.searchbox {
+  position: absolute;
+  width: 496.14px;
+  height: 46.09px;
+  left: 890px;
+  top: 28px;
+  
+  background: #141414;
+  border: 1px solid #696969;
+  box-sizing: border-box;
+  border-radius: 8px;
+}
+.bellicon {
+  position: absolute;
+  margin-top: 34px;
+  color: #ffffff;
+  margin-left: 1410px;
+
+  
+}
+.number12 {
+  position: absolute;
+  width: 12px;
+  height: 15px;
+  background-color: rgb(38, 76, 247);
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 10px;
+  line-height: 15px;
+
+  color: #ffffff;
+  border-radius: 50%;
+  margin-left: 1420px;
+  margin-top: 30px;
+}
+.accountlogo {
+  position: absolute;
+left: 95.91%;
+right: 1.81%;
+top: 36.48%;
+bottom: 22.27%;
+
+color: #FAC516;
+}

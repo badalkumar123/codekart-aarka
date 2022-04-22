@@ -1,25 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import Deshboard from './Container/Deshboard/Deshboard'
+import Leftnav from './Container/Leftnav/Leftnav'
+import Price from './Container/Price/Price'
+import Topnav from './Container/Topnav/Topnav'
+import Users from './Container/Users/Users'
 
-function App() {
+import Home from './Home'
+
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      
+         
+         <BrowserRouter>
+        
+      <Routes>
+        <Route path="/deshbord" element={<Deshboard/>}></Route>
+        <Route path="/user" element={<Users/>}></Route>
+        <Route path="/price" element={<Price/>}></Route>
+      </Routes>
+      <Topnav/>
+         <Leftnav/>
+    </BrowserRouter>
+      
     </div>
-  );
+  )
 }
-
-export default App;

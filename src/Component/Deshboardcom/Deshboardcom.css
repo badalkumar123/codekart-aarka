@@ -1,0 +1,369 @@
+.revenuebox {
+  position: absolute;
+  width: 369.85px;
+  height: 139.25px;
+  left: 325px;
+  top: 142px;
+
+  background: #191919;
+  box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+}
+.revenueearned {
+  position: absolute;
+  width: 188.19px;
+  height: 29.94px;
+  left: 444.66px;
+  top: 159.2px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #fac516;
+}
+
+.amount1 {
+  position: absolute;
+  width: 86px;
+  height: 29.94px;
+  left: 443.57px;
+  top: 193.42px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #ffffff;
+}
+.circlelogo {
+  position: absolute;
+  width: 76.15px;
+  height: 75.24px;
+  left: 346.76px;
+  top: 166.71px;
+  border-radius: 50%;
+  background: #353535;
+}
+.revelogo {
+  position: absolute;
+  width: 56.57px;
+  height: 48.29px;
+  left: 357.63px;
+  top: 179.06px;
+}
+.total {
+  position: absolute;
+  width: 369.85px;
+  height: 139.25px;
+  left: 730px;
+  top: 143px;
+}
+.totalbox {
+  position: absolute;
+  width: 369.85px;
+  height: 139.25px;
+  left: 730px;
+  top: 143px;
+
+  background: #191919;
+  box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+}
+.totaluser {
+  position: absolute;
+  width: 124.01px;
+  height: 29.94px;
+  left: 845.31px;
+  top: 159.19px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #fac516;
+}
+.amount2 {
+  position: absolute;
+  width: 44.6px;
+  height: 29.94px;
+  left: 844.22px;
+  top: 193.4px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #ffffff;
+}
+
+.circle2 {
+  position: absolute;
+  width: 76.15px;
+  height: 75.24px;
+  left: 743.05px;
+  top: 168.83px;
+  border-radius: 50%;
+  background: #353535;
+}
+.profilogo {
+  position: absolute;
+  width: 37px;
+  height: 37px;
+  left: 762px;
+  top: 188px;
+  color: #ffffff;
+}
+
+.totalbookingbox {
+  position: absolute;
+  width: 369.85px;
+  height: 139.25px;
+  left: 1136px;
+  top: 143px;
+
+  background: #191919;
+  box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+}
+.totalbooking {
+  position: absolute;
+  width: 187.1px;
+  height: 29.94px;
+  left: 1254.57px;
+  top: 166.71px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #fac516;
+}
+.amount3 {
+  position: absolute;
+  width: 29.37px;
+  height: 29.94px;
+  left: 1253.48px;
+  top: 200.93px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #ffffff;
+}
+.circle3 {
+  position: absolute;
+  width: 76.15px;
+  height: 74.12px;
+  left: 1157.76px;
+  top: 176.83px;
+  border-radius: 50%;
+  background: #353535;
+}
+.callogo {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  left: 1177px;
+  top: 189px;
+
+  color: #ffffff;
+}
+.totalfacilitiesbox {
+  position: absolute;
+  width: 369.85px;
+  height: 139.25px;
+  left: 325px;
+  top: 325px;
+
+  background: #191919;
+  box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+}
+.totalfacilities {
+  position: absolute;
+  width: 188.19px;
+  height: 29.94px;
+  left: 444.66px;
+  top: 337.79px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #fac516;
+}
+.amount4 {
+  position: absolute;
+  width: 44.6px;
+  height: 29.94px;
+  left: 443.57px;
+  top: 372.01px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #ffffff;
+}
+.circle4 {
+  position: absolute;
+  width: 76.15px;
+  height: 75.24px;
+  left: 346.76px;
+  top: 348.58px;
+  border-radius: 50%;
+  background: #353535;
+}
+
+.sdicon {
+  position: absolute;
+  color: white;
+  width: 50px;
+  height: 50px;
+  left: 361px;
+  top: 360px;
+}
+.totalsubsbox {
+  position: absolute;
+  width: 369.85px;
+  height: 139.25px;
+  left: 725px;
+  top: 325px;
+
+  background: #191919;
+  box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+}
+.totalsub {
+  position: absolute;
+  width: 231.7px;
+  height: 29.94px;
+  left: 837.04px;
+  top: 348.7px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #fac516;
+}
+.amount5 {
+  position: absolute;
+  width: 29.37px;
+  height: 29.94px;
+  left: 835.96px;
+  top: 382.92px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #ffffff;
+}
+.circle5 {
+  position: absolute;
+  width: 76.15px;
+  height: 74.12px;
+  left: 738.05px;
+  top: 355.32px;
+  border-radius: 50%;
+  background: #353535;
+}
+.crownicon {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 758px;
+  top: 374px;
+  color: #ffffff;
+}
+
+.cancelorderbox {
+  position: absolute;
+  width: 369.85px;
+  height: 139.25px;
+  left: 1136px;
+  top: 325px;
+
+  background: #191919;
+  box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+}
+.cancelorder{
+    position: absolute;
+width: 280.65px;
+height: 29.94px;
+left: 1250.87px;
+top: 336.64px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+
+color: #FAC516;
+
+}
+.amount6{
+    position: absolute;
+width: 180.58px;
+height: 29.94px;
+left: 1250.87px;
+top: 369.79px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+}
+.circle6{
+    position: absolute;
+width: 76.15px;
+height: 74.12px;
+left: 1158px;
+top: 348px;
+border-radius: 50%;
+background: #353535;
+}
+.cal2icon{
+    position: absolute;
+width: 42px;
+height: 42px;
+left: 1177.24px;
+top: 360.17px;
+color: #ffffff;
+}
+.cal3icon{
+    position: absolute;
+    color:#ffffff;
+    width: 20px;
+height: 20px;
+margin-left: 1205px;
+margin-top: 385px;
+}

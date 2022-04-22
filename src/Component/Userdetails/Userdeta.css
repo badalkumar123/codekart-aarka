@@ -1,0 +1,369 @@
+.userbox {
+  position: absolute;
+  width: 1181px;
+  height: 742px;
+  left: 327px;
+  top: 115px;
+
+  background: #181818;
+  border-radius: 10px;
+}
+.userline {
+  position: absolute;
+  width: 1181.02px;
+  height: 0px;
+  left: -0.01px;
+  top: 103.5px;
+
+  border: 0.5px solid #000000;
+}
+.yellowcircle {
+  position: absolute;
+  width: 85px;
+  height: 85px;
+  left: 57px;
+  top: 153px;
+  border-radius: 50%;
+  background: #fac516;
+}
+.pricelogo {
+  position: absolute;
+  width: 41px;
+  height: 44.73px;
+  left: 78px;
+  top: 175px;
+}
+.saragika {
+  position: absolute;
+  width: 377px;
+  height: 55px;
+  left: 184px;
+  top: 175px;
+
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 43px;
+
+  color: #ffffff;
+}
+.mobilelogo {
+  position: absolute;
+  left: 7.45%;
+  right: 91.23%;
+  top: 36.52%;
+  bottom: 60.11%;
+  color: #ffffff;
+}
+.mobileno {
+  position: absolute;
+  width: 279px;
+  height: 17px;
+  left: 138px;
+  top: 276px;
+
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #ffffff;
+}
+
+.emailid {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 81px;
+  top: 321px;
+  color: #ffffff;
+}
+.emailsagarika {
+  position: absolute;
+  width: 260px;
+  height: 17px;
+  left: 138px;
+  top: 321px;
+
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #ffffff;
+}
+.cakelogo {
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  left: 82px;
+  top: 369px;
+  color: #ffffff;
+}
+.birthday {
+  position: absolute;
+  width: 215px;
+  height: 17px;
+  left: 138px;
+  top: 369px;
+
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #ffffff;
+}
+
+.amountpaid {
+  position: absolute;
+  width: 237px;
+  height: 55px;
+  left: 57px;
+  top: 463px;
+
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 43px;
+
+  color: #ffffff;
+}
+.bookingslot {
+  position: absolute;
+  width: 309px;
+  height: 17px;
+  left: 57px;
+  top: 546px;
+
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #ffffff;
+}
+.date002 {
+  position: absolute;
+  width: 260px;
+  height: 17px;
+  left: 57px;
+  top: 591px;
+
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #ffffff;
+}
+.goldmember {
+  position: absolute;
+  width: 280px;
+  height: 17px;
+  left: 57px;
+  top: 639px;
+
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #ffffff;
+}
+.toamount {
+  position: absolute;
+  width: 280px;
+  height: 17px;
+  left: 57px;
+  top: 684px;
+
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #ffffff;
+}
+.goldcard1 {
+  position: absolute;
+  width: 340px;
+  height: 171px;
+  left: 807px;
+  top: 175px;
+
+  background: linear-gradient(
+    261.99deg,
+    #ffe48c 0.54%,
+    #fbd65b 47.73%,
+    rgba(250, 197, 22, 0.7) 98.42%
+  );
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+
+.goldmem {
+  position: absolute;
+  width: 140px;
+  height: 23px;
+  left: 825px;
+  top: 190px;
+
+  font-family: "Readex Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  letter-spacing: 0.06em;
+
+  color: #ffffff;
+}
+.buledot1 {
+  position: absolute;
+  left: 70.11%;
+  right: 29.81%;
+  top: 32.08%;
+  bottom: 67.79%;
+
+  background: #0003c1;
+  border: 2px solid #0003c1;
+}
+
+.buledot2 {
+  position: absolute;
+  left: 70.11%;
+  right: 29.81%;
+  top: 34.77%;
+  bottom: 65.09%;
+
+  background: #0003c1;
+  border: 2px solid #0003c1;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.buledot3 {
+  position: absolute;
+  left: 70.11%;
+  right: 29.81%;
+  top: 37.47%;
+  bottom: 62.4%;
+
+  background: #0003c1;
+  border: 2px solid #0003c1;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.buledot4 {
+  position: absolute;
+  left: 70.11%;
+  right: 29.81%;
+  top: 40.3%;
+  bottom: 59.57%;
+
+  background: #0003c1;
+  border: 2px solid #0003c1;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.buledot5 {
+  position: absolute;
+  left: 70.11%;
+  right: 29.81%;
+  top: 42.72%;
+  bottom: 57.14%;
+
+  background: #0003c1;
+  border: 2px solid #0003c1;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.cardtext1 {
+  position: absolute;
+  width: 115px;
+  height: 13px;
+  left: 836px;
+  top: 232px;
+
+  font-family: "Readex Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 12px;
+  /* identical to box height */
+
+  color: #0003c1;
+}
+
+.cardtext2 {
+  position: absolute;
+  width: 82px;
+  height: 13px;
+  left: 836px;
+  top: 252px;
+
+  font-family: "Readex Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 12px;
+  /* identical to box height */
+
+  color: #0003c1;
+}
+.cardtext3 {
+  position: absolute;
+  width: 113px;
+  height: 13px;
+  left: 836px;
+  top: 272px;
+
+  font-family: "Readex Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 12px;
+  /* identical to box height */
+
+  color: #0003c1;
+}
+.cardtext4{
+    position: absolute;
+width: 89px;
+height: 13px;
+left: 836px;
+top: 293px;
+
+font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+
+
+color: #0003C1;
+}
+.cardtext5{
+    position: absolute;
+width: 171px;
+height: 13px;
+left: 836px;
+top: 311px;
+
+font-family: 'Readex Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+
+
+color: #0003C1;
+}

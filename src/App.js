@@ -14,8 +14,9 @@ export default function App() {
       
          
          <BrowserRouter>
-        <Deshboard/>
+         
       <Routes>
+      <Route path="/" element={<Deshboard/>}></Route>
         <Route path="/deshbord" element={<Deshboard/>}></Route>
         <Route path="/user" element={<Users/>}></Route>
         <Route path="/price" element={<Price/>}></Route>

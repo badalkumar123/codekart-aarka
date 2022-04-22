@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/codekart-aarka/static/css/main.507ce878.css",
-    "main.js": "/codekart-aarka/static/js/main.190f1789.js",
+    "main.js": "/codekart-aarka/static/js/main.0856f456.js",
     "static/js/787.d168bcf9.chunk.js": "/codekart-aarka/static/js/787.d168bcf9.chunk.js",
     "static/media/ground.png": "/codekart-aarka/static/media/ground.035a3923a17f206ed73e.png",
     "static/media/aarkalogo.png": "/codekart-aarka/static/media/aarkalogo.3a3d7ce9a6c430f09fc5.png",
     "index.html": "/codekart-aarka/index.html",
     "main.507ce878.css.map": "/codekart-aarka/static/css/main.507ce878.css.map",
-    "main.190f1789.js.map": "/codekart-aarka/static/js/main.190f1789.js.map",
+    "main.0856f456.js.map": "/codekart-aarka/static/js/main.0856f456.js.map",
     "787.d168bcf9.chunk.js.map": "/codekart-aarka/static/js/787.d168bcf9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.507ce878.css",
-    "static/js/main.190f1789.js"
+    "static/js/main.0856f456.js"
   ]
 }

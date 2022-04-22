@@ -14,12 +14,13 @@ export default function App() {
       
          
          <BrowserRouter>
-        
+        <Deshboard/>
       <Routes>
         <Route path="/deshbord" element={<Deshboard/>}></Route>
         <Route path="/user" element={<Users/>}></Route>
         <Route path="/price" element={<Price/>}></Route>
       </Routes>
+
       <Topnav/>
          <Leftnav/>
     </BrowserRouter>
